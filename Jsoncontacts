@@ -1,0 +1,136 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "address": "123 Main St, City",
+      "gender": "Male",
+      "phone": {
+        "mobile": "+1234567890",
+        "office": "+9876543210",
+        "home": "+1122334455"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "address": "456 Oak St, Town",
+      "gender": "Female",
+      "phone": {
+        "mobile": "+5551112233",
+        "office": "+9998887777",
+        "home": "+4443332222"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "address": "789 Pine St, Village",
+      "gender": "Male",
+      "phone": {
+        "mobile": "+7778889999",
+        "office": "+3332221111",
+        "home": "+6665554444"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Alice Williams",
+      "address": "321 Cedar St, Hamlet",
+      "gender": "Female",
+      "phone": {
+        "mobile": "+1112223333",
+        "office": "+4445556666",
+        "home": "+9998887777"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Charlie Brown",
+      "address": "654 Birch St, Suburb",
+      "gender": "Male",
+      "phone": {
+        "mobile": "+3334445555",
+        "office": "+6667778888",
+        "home": "+2221110000"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Eva Davis",
+      "address": "987 Elm St, Countryside",
+      "gender": "Female",
+      "phone": {
+        "mobile": "+8889990000",
+        "office": "+1112223333",
+        "home": "+7776665555"
+      }
+    },
+    {
+      "id": 7,
+      "name": "David White",
+      "address": "456 Maple St, Rural",
+      "gender": "Male",
+      "phone": {
+        "mobile": "+2223334444",
+        "office": "+5556667777",
+        "home": "+4445556666"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Grace Miller",
+      "address": "654 Pine St, Seaside",
+      "gender": "Female",
+      "phone": {
+        "mobile": "+4445556666",
+        "office": "+7778889999",
+        "home": "+1112223333"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Frank Turner",
+      "address": "123 Oak St, Lakeside",
+      "gender": "Male",
+      "phone": {
+        "mobile": "+6667778888",
+        "office": "+2223334444",
+        "home": "+3334445555"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Helen Adams",
+      "address": "789 Birch St, Mountainside",
+      "gender": "Female",
+      "phone": {
+        "mobile": "+2221110000",
+        "office": "+9998887777",
+        "home": "+8889990000"
+      }
+    },
+    {
+      "id": 11,
+      "name": "George Clark",
+      "address": "321 Cedar St, Valley",
+      "gender": "Male",
+      "phone": {
+        "mobile": "+7776665555",
+        "office": "+4443332222",
+        "home": "+5551112233"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Ivy Ward",
+      "address": "987 Elm St, Riverside",
+      "gender": "Female",
+      "phone": {
+        "mobile": "+3332221111",
+        "office": "+1110009999",
+        "home": "+6665554444"
+      }
+    }
+  ]
+}
